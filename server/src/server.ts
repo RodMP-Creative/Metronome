@@ -23,4 +23,9 @@ if (process.env.NODE_ENV === 'production') {
 
 app.listen(PORT, () => {
   console.log(`API server running on port ${PORT}!`);
+  if (process.env.NODE_ENV === 'production') {
+    console.log(`Client is accessible at http://localhost:${PORT}`);
+  } else {
+    console.log(`Client is accessible at http://localhost:3000`);
+  }
 });

@@ -26,6 +26,8 @@
     "mongoose": "^8.4.1"
   },
   "devDependencies": {
+    "@cypress/react": "^9.0.0",
+    "@cypress/react18": "^2.0.1",
     "@types/express": "^4.17.21",
     "@types/node": "^20.12.7",
     "dotenv": "^16.4.5",
