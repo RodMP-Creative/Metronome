@@ -22,7 +22,8 @@ Before starting the following instructions, make sure you have Node.js installed
 For contributions, please follow these steps:<br><br>1. Create a forked repository through GitHub.<br><br>2. Make changes and additions to the codebase as necessary.<br><br>3. Commit your changes using clear and descriptive commit messages.<br><br>4. Push your changes to the forked repository.<br><br>5. Create a Pull Request from your forked repository to the original repository. Make sure to provide detailed information about your changes.<br><br>6. The review process will commence to determine any questions, feedback, and necessary changes.<br><br>7. Once the Pull Request is approved, it will be merged into the main branch.
 
 ## Tests
-To run the tests, use the following command: `npm run test`<br>This will execute both end-to-end and component tests.
+To run the tests, use the following command: `npm run test`<br>This will execute both end-to-end and component tests.<br><br>[Video Demo](https://drive.google.com/file/d/1sB6NBTbW6SQMH5u-ChIazmJLXCg8I55R/view?usp=sharing )
+
 
 ## License
 This project is under the MIT license.
