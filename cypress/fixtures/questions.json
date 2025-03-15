@@ -1,0 +1,29 @@
+[
+  {
+    "question": "What is the output of 2 + 2?",
+    "answers": [
+      { "text": "0", "isCorrect": false },
+      { "text": "𓆟", "isCorrect": false },
+      { "text": "Fish", "isCorrect": false },
+      { "text": "4", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "Best Hero shooter?",
+    "answers": [
+      { "text": "OverWatch 2", "isCorrect": false },
+      { "text": "Marvel Rivals", "isCorrect": true },
+      { "text": "Paladins", "isCorrect": false },
+      { "text": "OverWatch", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the best pizza place?",
+    "answers": [
+      { "text": "Papa John's", "isCorrect": false },
+      { "text": "Pizza Hut", "isCorrect": false },
+      { "text": "Dominos", "isCorrect": true },
+      { "text": "Little Ceasar's", "isCorrect": false }
+    ]
+  }
+]
